@@ -1,4 +1,4 @@
-# Member 6:
+
 # Login + Application Controller
 
 import tkinter as tk
