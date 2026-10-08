@@ -4,8 +4,17 @@
         "student": "raghav",
         "category": "Electrical",
         "description": "Fan is not working",
+        "status": "Resolved",
+        "department": "Electrical Department",
+        "created": "04-10-2026 22:04"
+    },
+    {
+        "id": "1002",
+        "student": "raghav",
+        "category": "Internet/Wi-Fi",
+        "description": "Speed of wifi is very low",
         "status": "Pending",
         "department": "Not Assigned",
-        "created": "04-10-2026 22:04"
+        "created": "05-10-2026 12:12"
     }
 ]

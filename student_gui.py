@@ -19,6 +19,7 @@ class StudentGUI:
         self.username = username
 
         root.title(
+            
             "Student - Smart Campus Helpdesk"
         )
 
